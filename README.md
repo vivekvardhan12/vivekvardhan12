@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vivek Vardhan👋
 
-<!--
-**vivekvardhan12/vivekvardhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Learning C++, Python, Web Development  
+🚀 Interested in DSA, Machine Learning & Full Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C++
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- Data Structures & Algorithms
+- Machine Learning with Python
+
+---
+
+## 📫 Connect With Me
+- Email: vivekvardhan4.kalyanam@gmail.com
+- LinkedIn: www.linkedin.com/in/vivekvardhankalyanam
